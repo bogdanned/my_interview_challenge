@@ -1,8 +1,8 @@
-## PROJECT_NAME
+## Star wars App
 
 *TODO: [ADD_TASK_REQUIREMENTS_HERE]*
 
-Solution by [Sophie Lewis](mailto:sophie@codewithdragos.com)
+Solution by [Bogdan](mailto:sophie@codewithdragos.com)
 
 ## Assumptions
 
